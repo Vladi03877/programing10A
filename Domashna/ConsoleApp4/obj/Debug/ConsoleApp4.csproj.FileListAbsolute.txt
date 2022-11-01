@@ -1,0 +1,6 @@
+C:\Users\Vladi\Desktop\Domashna\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\Vladi\Desktop\Domashna\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\Vladi\Desktop\Domashna\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\Vladi\Desktop\Domashna\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Vladi\Desktop\Domashna\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\Vladi\Desktop\Domashna\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
